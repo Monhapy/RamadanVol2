@@ -1,0 +1,19 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+<<<<<<< HEAD
+/.idea.Ramadan.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+=======
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Ramadan.iml
+>>>>>>> 8a234d9db187e473d60be8601b13385b12e9dda2
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
